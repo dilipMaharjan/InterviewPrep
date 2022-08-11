@@ -1,4 +1,4 @@
-package com.dilipmaharjan.interviewprep.neetcode;
+package com.dilipmaharjan.interviewprep.neetcode.arrays;
 
 import java.util.HashMap;
 import java.util.Map;

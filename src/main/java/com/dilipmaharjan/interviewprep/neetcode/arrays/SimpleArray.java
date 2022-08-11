@@ -1,4 +1,4 @@
-package com.dilipmaharjan.interviewprep.array;
+package com.dilipmaharjan.interviewprep.neetcode.arrays;
 
 import javafx.util.Pair;
 

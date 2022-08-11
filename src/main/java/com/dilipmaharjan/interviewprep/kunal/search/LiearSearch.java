@@ -1,4 +1,4 @@
-package com.dilipmaharjan.interviewprep.search;
+package com.dilipmaharjan.interviewprep.kunal.search;
 
 public class LiearSearch {
     public static void main(String[] args) {

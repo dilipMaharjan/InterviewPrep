@@ -1,11 +1,12 @@
-package com.dilipmaharjan.interviewprep.search;
+package com.dilipmaharjan.interviewprep.kunal.search;
 
 public class BinarySearch {
     public static void main(String[] args) {
 
         int[] nums = {1, 2, 5, 7, 8, 9, 10};
         int target = 5;
-        System.out.println(indexOfIthElement(nums, target));
+        int index = indexOfIthElement(nums, target);
+        System.out.printf("Index :%d => Value: %d => target: %d", index, nums[index], target);
     }
     //Assumptions: Array is sorted in ascending order, array is not empty
 
